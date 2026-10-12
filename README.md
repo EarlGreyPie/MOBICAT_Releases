@@ -24,11 +24,12 @@
 
 ## 설치
 
-1. [Releases](https://github.com/EarlGreyPie/MOBICAT_Releases/releases/latest) 에서 **`MOBICAT.App-stable-Setup.exe`** 를 받아 실행합니다. 관리자 권한은 없어도 됩니다.
-2. 파란 **"Windows의 PC 보호"** 창이 뜨면 `추가 정보` → `실행`. 서명되지 않은 프로그램이라 처음 설치할 때 한 번 뜹니다.
-3. 게임에서 **설정 → 게임 → `마비노기 모바일 AI 커넥터 Beta`** 를 켭니다. 7일 동안 쓰지 않으면 게임이 이 옵션을 저절로 끕니다.
-4. MOBICAT 홈 탭 머리줄이 `게임 연결됨` 으로 바뀌면 준비 끝입니다.
-5. 자동 업데이트는 설치판에서만 가능합니다. Portable(zip)이용자 분들은 판올림시 다시 새 zip 파일을 받아주세요. 사용자 데이터는 다른 위치에 저장되서 교체 가능합니다.
+1. [Releases](https://github.com/EarlGreyPie/MOBICAT_Releases/releases/latest) 에서 **`MOBICAT.App-Installer_0.9.3.exe`** 를 받아 실행합니다. 관리자 권한은 없어도 됩니다.
+   **주의: Setup 파일은 지정장소에 설치되며, Installer 로 설치해야 설치폴더를 고를수 있습니다.**
+3. 파란 **"Windows의 PC 보호"** 창이 뜨면 `추가 정보` → `실행`. 서명되지 않은 프로그램이라 처음 설치할 때 한 번 뜹니다.
+4. 게임에서 **설정 → 게임 → `마비노기 모바일 AI 커넥터 Beta`** 를 켭니다. 7일 동안 쓰지 않으면 게임이 이 옵션을 저절로 끕니다.
+5. MOBICAT 홈 탭 머리줄이 `게임 연결됨` 으로 바뀌면 준비 끝입니다.
+6. 자동 업데이트는 설치판에서만 가능합니다. Portable(zip)이용자 분들은 판올림시 다시 새 zip 파일을 받아주세요. 사용자 데이터는 다른 위치에 저장되서 교체 가능합니다.
 
 설치판은 사용자 폴더(`%LOCALAPPDATA%\MOBICAT.App`)에 깔리고 위치를 고를 수 없습니다. 원하는 폴더에 두고 싶으면 **`MOBICAT.App-stable-Portable.zip`** 을 받아 아무 폴더에나 풀어 `MOBICAT.exe` 를 실행하세요(설치 없이, 앱 안 업데이트도 됩니다).
 0.9.2에서 설치위치 지정기능 대응 예정입니다.
