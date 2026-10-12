@@ -25,6 +25,7 @@
 ## 설치
 
 1. [Releases](https://github.com/EarlGreyPie/MOBICAT_Releases/releases/latest) 에서 **`MOBICAT.App-Installer_0.9.3.exe`** 를 받아 실행합니다. 관리자 권한은 없어도 됩니다.
+   
    **주의: Setup 파일은 지정장소에 설치되며, Installer 로 설치해야 설치폴더를 고를수 있습니다.**
 3. 파란 **"Windows의 PC 보호"** 창이 뜨면 `추가 정보` → `실행`. 서명되지 않은 프로그램이라 처음 설치할 때 한 번 뜹니다.
 4. 게임에서 **설정 → 게임 → `마비노기 모바일 AI 커넥터 Beta`** 를 켭니다. 7일 동안 쓰지 않으면 게임이 이 옵션을 저절로 끕니다.
